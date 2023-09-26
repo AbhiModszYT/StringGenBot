@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": false,
-      "value": "https://t.me/AMBOTYT"
+      "value": "AMBOTYT"
     }
   }
 }
